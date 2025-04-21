@@ -47,3 +47,6 @@ I had the opportunity to study abroad in Calabria, Italy for the Miami Universit
 ## 🔗 Contact Me!
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethanh-varner/](https://www.linkedin.com/in/ethanh-varner/)
 <br>
+<br><br><br><br>
+Credits to profile setup layout go to Nick Wheeler. <a href="https://github.com/NicholasJWheeler">Linked here is his Github</a>
+
