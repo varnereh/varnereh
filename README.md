@@ -27,13 +27,14 @@ Born in Ohio, I've lived in Versailles, Ohio for the majority of my life. Ever s
  	<b>Expected Graduation:</b> Winter 2025<br>
 
 Miami University, established in 1809 in Oxford, Ohio, is one of the oldest public universities in the United States. Renowned for its commitment to undergraduate teaching, it offers over 120 undergraduate and 70 graduate degree programs. The university is recognized for its picturesque campus, strong liberal arts foundation, and a high return on investment for graduates. I am currently attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus.
-<br><br><br>
+<br><br>
 
 <a href="https://miamioh-sa.terradotta.com/index.cfm?FuseAction=Programs.ProgramDiscovery&search=[{%22filterType%22:%22programDiscoveryKeyword%22,%22filterValues%22:[{%22value%22:%22calabria%22},{%22value%22:%22%22}]},{%22filterType%22:%22programDiscoveryProgramParameters%22,%22filterValues%22:[{%22id%22:10030,%22value%22:%22Europe%22}]}]">
 	<img src="https://bestr.it/filemanager/show/9cee39d6-d407-47fb-9a80-79f04b530171.png" alt="University of Calabria Image" height="150"/></a>
 <br><br>
 I had the opportunity to study abroad in Calabria, Italy for the Miami University Computer Science Italy Study Abroad trip. Here, I was able to not only delve into new areas of computer science that I had not seen, such as declarative programming and computer ethics, but I was able to do it while immersing myself in an entirely different culture than my own. I met tons of new people and was able to see parts of the world I never thought I would be able to. Feel free to click the image above for more details!
 
+<br><br> 
 
 ## 🛠️ Programming Language Experience
 
@@ -41,6 +42,7 @@ I had the opportunity to study abroad in Calabria, Italy for the Miami Universit
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,cs,mysql,linux,php,bash,github"/>
 </p>
 
+<br>
 
 ## 🔗 Contact Me!
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethanh-varner/](https://www.linkedin.com/in/ethanh-varner/)
