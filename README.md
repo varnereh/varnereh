@@ -40,10 +40,10 @@ I had the opportunity to study abroad in Calabria, Italy for the Miami Universit
 
 <br><br> 
 
-## 🛠️ Programming Language Experience
+## 🛠️ Technical Experience
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,cs,mysql,linux,php,bash,github"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,cs,mysql,github"/>
 </p>
 
 <br>
