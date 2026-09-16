@@ -1,20 +1,14 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>📌 Pinned Projects </i></h2>
-<p align="center">
-	<a href="https://github.com/godlaska/Stock-Ticker">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=godlaska&repo=Stock-Ticker&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,d68ffa,bc35ff" />
-	</a>
-	<a href="https://github.com/varnereh/Homework6">
-  	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=varnereh&repo=Homework6&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,a7fc91,00ff32" />
-	</a>
-	<a href="https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThetaTauMiami&repo=Firebase-Theta-Tau-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,FFF8DC,FFFACD&cache_seconds=1800" />
-	</a>
-	<a href="https://github.com/TortillaDaHut/UltimatePong">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TortillaDaHut&repo=UltimatePong&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=20,ffc898,ff8903" />
-	</a>
-	
-</p>
+
+<div align="center">
+
+| [**Stock Ticker**](https://github.com/godlaska/Stock-Ticker) | [**Homework6**](https://github.com/varnereh/Homework6) | [**Theta Tau Website**](https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website) | [**UltimatePong**](https://github.com/TortillaDaHut/UltimatePong) |
+|:--:|:--:|:--:|:--:|
+| [![](https://img.shields.io/badge/View-Repository-bc35ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/godlaska/Stock-Ticker) | [![](https://img.shields.io/badge/View-Repository-00ff32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varnereh/Homework6) | [![](https://img.shields.io/badge/View-Repository-FFFACD?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website) | [![](https://img.shields.io/badge/View-Repository-ff8903?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TortillaDaHut/UltimatePong) |
+| Real-time stock tracking with login & favorites | Regex-based compiler for a custom .zpm language | Theta Tau chapter website (Firebase) | Java Pong clone with customizable skins |
+
+</div>
 <br>
 
 ## 🙋🏼‍♂️ About Me
