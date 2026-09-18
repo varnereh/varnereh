@@ -21,8 +21,9 @@ Born in Ohio, I've lived in Versailles, Ohio for the majority of my life. Ever s
 	<img src="https://github.com/godlaska/godlaska/blob/main/miami-university-logo.png?raw=true" height="150" />
 </a>
 <br><br>
-	<b>Pursuing:</b> <i>Bachelor of Science</i> (Computer Science), <i>Master of Computer Science</i> (Computer Science)<br>
- 	<b>Expected Graduation:</b> Winter 2025<br>
+	<b>Have:</b> <i>Bachelor of Science</i> (Computer Science)<br>
+	<b>Pursuing:</b> <i>Master of Science</i> (Computer Science)<br>
+ 	<b>Expected Graduation:</b> December 2026<br>
 
 Miami University, established in 1809 in Oxford, Ohio, is one of the oldest public universities in the United States. Renowned for its commitment to undergraduate teaching, it offers over 120 undergraduate and 70 graduate degree programs. The university is recognized for its picturesque campus, strong liberal arts foundation, and a high return on investment for graduates. I am currently attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus.
 <br><br>
