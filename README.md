@@ -3,9 +3,9 @@
 
 <div align="center">
 
-| [**Stock Ticker**](https://github.com/godlaska/Stock-Ticker) | [**Homework6**](https://github.com/varnereh/Homework6) | [**Theta Tau Website**](https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website) | [**UltimatePong**](https://github.com/TortillaDaHut/UltimatePong) |
+| [**Stock Ticker**](https://github.com/godlaska/Stock-Ticker) | [**ZpmLanguage**](https://github.com/varnereh/ZpmLanguage) | [**Theta Tau Website**](https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website) | [**UltimatePong**](https://github.com/TortillaDaHut/UltimatePong) |
 |:--:|:--:|:--:|:--:|
-| [![](https://img.shields.io/badge/View-Repository-bc35ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/godlaska/Stock-Ticker) | [![](https://img.shields.io/badge/View-Repository-00ff32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varnereh/Homework6) | [![](https://img.shields.io/badge/View-Repository-FFFACD?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website) | [![](https://img.shields.io/badge/View-Repository-ff8903?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TortillaDaHut/UltimatePong) |
+| [![](https://img.shields.io/badge/View-Repository-bc35ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/godlaska/Stock-Ticker) | [![](https://img.shields.io/badge/View-Repository-00ff32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varnereh/ZpmLanguage) | [![](https://img.shields.io/badge/View-Repository-FFFACD?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ThetaTauMiami/Firebase-Theta-Tau-Website) | [![](https://img.shields.io/badge/View-Repository-ff8903?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TortillaDaHut/UltimatePong) |
 | Real-time stock tracking with login & favorites | Regex-based compiler for a custom .zpm language | Theta Tau chapter website (Firebase) | Java Pong clone with customizable skins |
 
 </div>
